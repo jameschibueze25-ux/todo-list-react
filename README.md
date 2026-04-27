@@ -1,6 +1,6 @@
 # To-Do List (React)
 
-A to-do list app built with React. This is a rebuild of my [vanilla JavaScript version]((https://github.com/jameschibueze25-ux/To-Do-List)) — same idea, different approach.
+A to-do list app built with React. This is a rebuild of my [vanilla JavaScript version](https://github.com/jameschibueze25-ux/To-Do-List) — same idea, different approach.
 
 ## Features
 
